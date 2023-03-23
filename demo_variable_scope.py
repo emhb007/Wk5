@@ -1,4 +1,4 @@
-
+result = 3
 def scope_test1():
     result = 42
     print("inside the function: (local scope)",result)
